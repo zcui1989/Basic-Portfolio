@@ -46,10 +46,13 @@ position:absolute;
 left:15%;
 }
 .col2{
-width:20%;
-position:absolute;
-right:145px;
-margin-top:60px;
+    width:20%;
+    position:absolute;
+    right:240px;
+    margin-top:60px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
 }
 .greybox{
 width:100%;
